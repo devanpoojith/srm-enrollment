@@ -1,0 +1,21 @@
+h1 {
+    color: #850E35;
+    font-family: "Mochiy+Pop+One", Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    background-color: #FFF5E4;
+}
+hr {
+    border-style: dotted;
+    border-color: #850E35;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 20%;
+    size: 30px;
+    border-width: 10px;
+}
+p {
+    color: #EE6983;
+    font-family: "Mochiy+Pop+One", Georgia, 'Times New Roman', Times, serif;font-family: "Mochiy+Pop+One", Georgia, 'Times New Roman', Times, serif;
+}
